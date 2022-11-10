@@ -6,6 +6,7 @@ var rules = [
     ],
     [
         [
+            "intsig.net",
             "aftygh.gov.tw",
             "aide.gov.tw",
             "aliyun.com",
